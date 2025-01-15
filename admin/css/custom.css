@@ -1,0 +1,8 @@
+.hide{display:none}
+.show{display: block}
+.focusedB {
+   border-color: ffdddd;
+}.focusedS {
+   border-color:green;
+}
+
